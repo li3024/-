@@ -1,0 +1,10 @@
+.menus {
+  display: flex;
+}
+.menu {
+  width: 200px;
+  height: 100vh;
+}
+.menus_input {
+  flex: 1;
+}
